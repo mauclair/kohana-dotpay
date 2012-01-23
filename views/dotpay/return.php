@@ -1,0 +1,1 @@
+<p>Dziękujemy za skorzystanie z płatności internetowych. Jak tylko zaksięgujemy wpłatę usługa zostanie automatycznie włączona.</p> 
